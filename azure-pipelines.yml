@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'TestPool'
+  vmImage: 'DevOps'
 
 variables:
   solution: '**/*.sln'
